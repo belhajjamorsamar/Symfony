@@ -25,3 +25,6 @@ Welcome to my Symfony Learning Journey repository! This GitHub repository has be
 To get started with Symfony and explore my projects, you can follow these steps:
 
 1. Clone this repository to your local machine using the following command:
+  
+2. Navigate to the project directory:
+
